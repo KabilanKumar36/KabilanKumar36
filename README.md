@@ -20,14 +20,14 @@ Currently, I am focused on the intersection of **Physical Simulation and AI**, b
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | ![C++](https://img.shields.io/badge/C++-17%2F20-00599C?style=flat&logo=c%2B%2B) ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python) ![C](https://img.shields.io/badge/C-11-A8B9CC?style=flat&logo=c) |
-| **HPC & Systems** | Intel TBB, OpenMP, CUDA (Basics), CMake, Linux |
+| **HPC & Systems** | Intel TBB, OpenMP, CMake, Linux |
 | **Algorithms** | Sparse Voxel Octrees (SVO), CSR/CSC Matrix Formats, AABB Trees |
 | **Tools** | Git, VTK, ParaView, OpenGL |
 
 ---
 
 ### 🚀 Featured Engineering Work
-* **[py-nastran-visualizer](https://github.com/KabilanKumar36/py-nastran-visualizer)**: High-fidelity parser for Nastran BDF files with custom rendering.
+* **[VTKNastranViewer]([https://github.com/KabilanKumar36/py-nastran-visualizer](https://github.com/KabilanKumar36/VTKNastranViewer))**: High-fidelity parser for Nastran BDF files with custom rendering.
 
 ---
 
