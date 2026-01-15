@@ -27,7 +27,7 @@ Currently, I am focused on the intersection of **Physical Simulation and AI**, b
 ---
 
 ### 🚀 Featured Engineering Work
-* **[VTKNastranViewer]([https://github.com/KabilanKumar36/VTKNastranViewer])**: High-fidelity parser for Nastran BDF files with custom rendering.
+* **[VTKNastranViewer](https://github.com/KabilanKumar36/VTKNastranViewer)**: High-fidelity parser for Nastran BDF files with custom rendering.
 
 ---
 
